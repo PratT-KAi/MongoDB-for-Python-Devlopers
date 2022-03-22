@@ -2,7 +2,7 @@
 
 > A beginner friendly course
  
-# What You'll Learn
+## What You'll Learn
 This course will teach you how to use MongoDB as the database for a Python application.
 
 You'll play the role of a back-end developer for a Python application, and your job is to implement the application's communication with MongoDB. This includes:
